@@ -1,4 +1,3 @@
-package actividad3;
 public class Circulo {
 	public float id;
 	public float circunferencia;

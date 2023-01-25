@@ -1,4 +1,3 @@
-package actividad3;
 public class cuadrado {
 	public int numero;
 	public int perimetro;
